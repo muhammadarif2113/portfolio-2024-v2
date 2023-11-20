@@ -2,8 +2,6 @@ import Link from "next/link";
 import { Fragment, memo, useMemo, useState } from "react";
 import useWindowSize from "../useWindowSize";
 import SectionContainer from "./SectionContainer";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { falinkedin } from "@fortawesome/free-solid-svg-icons";
 
 
 const Experience = () => (

@@ -308,8 +308,8 @@ const AboutUs = ({ dark }) => {
               </h6>
               <div className="col m12 l12 xl9 p-none">
                 <p className="second-font">
-                  Greetings! {`I'm`} am a skilled and dedicated Email Developer and CMS Manager. 
-                  I have a passion for crafting engaging and visually appealing email campaigns and working with CMS's like Shopify and HubSpot. 
+                  Greetings! I am a skilled and dedicated Email Developer and CMS Manager. 
+                  I have a passion for crafting engaging and visually appealing email campaigns and working with CMSs like Shopify and HubSpot. 
                   My expertise lies in translating designs into fully functional websites and emails while utilizing my 
                   development skills to enhance and customize their features.
                 </p>
@@ -339,9 +339,9 @@ const AboutUs = ({ dark }) => {
                 </ul>
               </div>
             </div>
-            <div class="social-icon">
-              <a href="https://www.linkedin.com/in/muhammad-arif-2a9784163/" target="_blank"><i className="fa fa-linkedin" fontSize="20px;"/></a>
-              <a href="https://github.com/muhammadarif2113?tab=repositories" target="_blank"><i className="fa fa-github" /></a>
+            <div className="social-icon">
+              <a href="https://www.linkedin.com/in/muhammad-arif-2a9784163/"><i className="fa fa-linkedin" fontSize="20px;"/></a>
+              <a href="https://github.com/muhammadarif2113?tab=repositories"><i className="fa fa-github" /></a>
             </div>
           </div>
           {/* Personal Informations Ends */}
@@ -477,13 +477,14 @@ const AboutUs = ({ dark }) => {
         {/* Resume Ends */}
         {/* Fun Facts Starts */}
         <div className="container badges">
-          <span style={{fontSize: "25px"}}>"</span>
-          Saim's attention to detail and creative approach stood out. 
+          {/* <span style={{fontSize: "25px"}}>"</span> */}
+          Saims attention to detail and creative approach stood out. 
           His ability to understand our brand and tailor the email content 
           to resonate with our target audience was impressive. The engaging 
           and well-crafted emails captured our message and also generated an increase in 
           open rates and click-through rates.
-          <span style={{fontSize: "25px"}}>"</span>  <span style={{color: "#DAA520", fontSize: "16px", fontStyle: "normal"}}>UpWork Review</span>
+          {/* <span style={{fontSize: "25px"}}>"</span>  */}
+           <span style={{color: "#DAA520", fontSize: "16px", fontStyle: "normal"}}>UpWork Review</span>
         </div>
         {/* Fun Facts Ends */}
       </div>

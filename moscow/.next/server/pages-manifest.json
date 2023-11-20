@@ -1,13 +1,13 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js",
-  "/blog-dark": "pages/blog-dark.js",
-  "/demo": "pages/demo.js",
   "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/blog-post-dark": "pages/blog-post-dark.js",
+  "/blog-dark": "pages/blog-dark.js",
   "/blog-light": "pages/blog-light.js",
   "/blog-post-light": "pages/blog-post-light.js",
+  "/demo": "pages/demo.js",
   "/index-dark": "pages/index-dark.js",
-  "/blog-post-dark": "pages/blog-post-dark.js",
   "/": "pages/index.js"
 }
